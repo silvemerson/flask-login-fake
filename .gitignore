@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Arquivos do editor
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos de build
+dist/
+build/
+*.egg-info/
+
+# Docker
+*.tar
+*.pid
+docker-compose.override.yml
+Dockerfile
+
+# Outros
+*.sqlite3
+*.db
