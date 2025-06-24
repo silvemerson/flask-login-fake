@@ -36,7 +36,7 @@ build/
 *.tar
 *.pid
 docker-compose.override.yml
-Dockerfile
+# Dockerfile
 
 # Outros
 *.sqlite3
